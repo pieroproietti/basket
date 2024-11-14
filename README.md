@@ -1,7 +1,7 @@
 # basket of eggs
 
-This is just the good old [tinyFileManages](https://github.com/prasathmani/tinyfilemanager) with just same little touch for our scope.
+This is just the good old [tinyFileManages](https://github.com/prasathmani/tinyfilemanager) with same little touchs to adapt for our scope.
 
-# to do
+## To do
 
 * implement a counter of downloads
